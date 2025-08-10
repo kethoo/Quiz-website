@@ -11,7 +11,7 @@ Originally designed for **CS108 at Stanford University**, the project combines q
 
 ---
 
-## 🚀 Features
+##  Features
 
 ###  Quiz System
 - **Question Types**:
